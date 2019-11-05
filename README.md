@@ -1,2 +1,2 @@
 # encoding
-Huffman and Arithmetic encoding implemented in C++
+Huffman and Arithmetic encoding implemented in C++.
