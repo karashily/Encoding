@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 
-#include "headers/huffman.h"
+#include "headers/huffman.hpp"
 
 int main(int argc, char* argv[]) {
 	string mode = argv[1];

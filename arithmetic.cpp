@@ -1,4 +1,4 @@
-﻿#include "headers/arithmetic.h"
+﻿#include "headers/arithmetic.hpp"
 
 #include <iostream>
 #include <fstream>

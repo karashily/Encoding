@@ -1,4 +1,4 @@
-﻿#include "arithmetic.h"
+﻿#include "arithmetic.hpp"
 
 #include <iostream>
 #include <cmath>
