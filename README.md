@@ -15,7 +15,7 @@ apt-get install g++
   - tree: build huffman tree for the message/image
   - encode: encode using huffman coding. has 2 modes: normal encoding and corelation encoding (add a -c parameter at the end)
 
-### Installation
+### Usage
 
 1. Build the file using the makefile by simply opening the shell and typing:
 ```sh
@@ -39,7 +39,7 @@ huffman.exe -encode < file.pgm > out.txt
   - bin_to_dec: convert a binary number (max 32 bits) to decimal
   - dec_to_bin: convert a decimal number to binary (max 32 bits)
    
-### Installation
+### Usage
 
 1. Build the file using the makefile by simply opening the shell and typing:
 ```sh
