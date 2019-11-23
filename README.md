@@ -1,6 +1,5 @@
 # Huffman and Arithmetic Coding
-Huffman and Arithmetic encoding techniques implemented in C++.
-Use g++ for compilation.
+a terminal program that compresses text/images using either  Arithmetic or Huffman coding techniques implemented in C++.
 
 ### Prerequisites
 
